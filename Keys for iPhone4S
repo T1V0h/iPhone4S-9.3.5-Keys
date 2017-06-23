@@ -1,0 +1,88 @@
+# iPhone4S-9.3.5-Keys
+iPhone4S 9.3.5 Keys
+
+Genoa 13G36 (iPhone4,1)
+Root Filesystem
+Filename:
+058-48374-036.dmg
+	•	Key: 677d05afbb9a1eaa5f5e353829df15c4a5a6a2f7c2f354dadbff11e4aad7e97bf8f9275d
+Update Ramdisk
+Filename:
+058-49412-036.dmg
+	•	IV: f7c54e7bc52bd9001e576f7e7e19e423
+	•	Key: 9c2ede4bc5919de37d73d6eaeeb34d25bc01cd1012407c908862a538ea63a0cb
+Restore Ramdisk
+Filename:
+058-49032-036.dmg
+	•	IV: 7842e2c239a2f8a5d8dac384cb308c94
+	•	Key: 3de170b9d5d0e4f22b6800f1ca9f82922b1e100c9f868cf32a957039fab21edb
+AppleLogo
+Filename:
+applelogo@2x~iphone.s5l8940x.img3
+	•	IV: c639ffd2a1ccc0ee5d85cbf89124150e
+	•	Key: ecc1f57ccf4111b1db6f2fd4c9e9755db1c098908fd984194fe9d3cb1f3ae912
+BatteryCharging0
+Filename:
+batterycharging0@2x~iphone.s5l8940x.img3
+	•	IV: 4505554079ba368322dd6ba63beeb834
+	•	Key: e43f4acbd30c448d31c5f12228611feb6ab6f86ccedb3fdc62c974c881a9ff6a
+BatteryCharging1
+Filename:
+batterycharging1@2x~iphone.s5l8940x.img3
+	•	IV: 2b8e09d0cc42d26de881170a6b582dd5
+	•	Key: fb7630991c06138609a39177b5fbd5784bf9e8cd4dc8cff2b0dd091e559ee65c
+BatteryFull
+Filename:
+batteryfull@2x~iphone.s5l8940x.img3
+	•	IV: 8fa19f132bb1e03f4b2ece4015a8e4eb
+	•	Key: 8ca7b13a69d788c6506190b7f7649c55ada8a7fc9efe7ea76f8a938dcd12c8a6
+BatteryLow0
+Filename:
+batterylow0@2x~iphone.s5l8940x.img3
+	•	IV: a4b6044002a23a2a5b13da1c0de9c02b
+	•	Key: fdd7cd5624dc3d14e8a38216e605dd58e42847e81329637561c080177cff4376
+BatteryLow1
+Filename:
+batterylow1@2x~iphone.s5l8940x.img3
+	•	IV: 34c896baeb65db42bfd1703943c0a6ea
+	•	Key: 8640ca7b2dadf6c78383fbfed75735ef85b8e837a12dd7cdeb0ca8077f919a0a
+DeviceTree
+Filename:
+DeviceTree.n94ap.img3
+	•	IV: 21617cab22fd2738cad14f6f1604fae2
+	•	Key: 4800e1183963014bdd82a67df14271e5184c47e4b92f9f929e7f0363eeb4ccd2
+GlyphPlugin
+Filename:
+glyphplugin@2x~iphone-30pin.s5l8940x.img3
+	•	IV: d2fee1254200ab0e89ba01d34ffeee7b
+	•	Key: 122426971dac07013226b215e0496e420713dd0a7b63101cadafa793531cd3a8
+iBEC
+Filename:
+iBEC.n94.RELEASE.dfu
+	•	IV: aaca923c569e477c0d6fb441a956722a
+	•	Key: 9da9c5a04bd3e41d3c5cfd41806905bf73b527b58aa4c9df82307ae6c570f5a8
+iBoot
+Filename:
+iBoot.n94.RELEASE.img3
+	•	IV: 7543c02085f93d3f09445179b21a6c03
+	•	Key: 51d3590153a993d736d8054f1bffb7f4c540152f75b8f7d03867826114f083dd
+iBSS
+Filename:
+iBSS.n94.RELEASE.dfu
+	•	IV: f0f347cec7eef72537b7056f72199cc3
+	•	Key: 3801b8387018fa15fa9d7aede1dd58e304401aaaeead4ae37100eb5b6e901ffc
+Kernelcache
+Filename:
+kernelcache.release.n94
+	•	IV: ac20a4b047a64fe6b4a3a20a71ce784d
+	•	Key: 8971653fdb070f532d6e563e5e1cd589fca50d809c35689753556fbb5dd7f928
+LLB
+Filename:
+LLB.n94.RELEASE.img3
+	•	IV: 754c3721668fc7aee3012215a80c593f
+	•	Key: df576bda22a146bf88c1d7d745ae51ff61e688c23f1e625da22f73600fe433ab
+RecoveryMode
+Filename:
+recoverymode@2x~iphone-30pin.s5l8940x.img3
+	•	IV: a5a0e378e2a3af395be60967439814df
+	•	Key: 87ef27a016fd8c0f61727b89d770d51387622e13a0ef9bfbcbcbfd92f4c09768
